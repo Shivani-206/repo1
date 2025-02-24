@@ -1,0 +1,8 @@
+ls
+ls -l
+ls -a
+file
+pwd
+passwd
+cd
+cd ~
